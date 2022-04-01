@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: a446e0a2926fd4646a0a8653d3d69ee5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7418676747066765040
+    second: shieldsmall_0
+  - first:
+      213: -7279314474469695948
+    second: shieldsmall_1
+  - first:
+      213: 8643253954653235692
+    second: shieldsmall_2
+  - first:
+      213: -6352281477107638416
+    second: shieldsmall_3
+  - first:
+      213: 7222230157696267466
+    second: shieldsmall_4
+  - first:
+      213: -1251987336890947354
+    second: shieldsmall_5
+  - first:
+      213: -7818562918980149973
+    second: shieldsmall_6
+  - first:
+      213: -8337723860716690468
+    second: shieldsmall_7
+  - first:
+      213: 3159753033466747438
+    second: shieldsmall_8
+  - first:
+      213: 7576785930315806902
+    second: shieldsmall_9
+  - first:
+      213: -3716910097069955021
+    second: shieldsmall_10
+  - first:
+      213: -2991129521071861295
+    second: shieldsmall_11
+  - first:
+      213: -7428080649482916062
+    second: shieldsmall_12
+  - first:
+      213: 2381571472957708813
+    second: shieldsmall_13
+  - first:
+      213: 3491993586453979119
+    second: shieldsmall_14
+  - first:
+      213: -7704451432266875603
+    second: shieldsmall_15
+  - first:
+      213: 7477204456966442084
+    second: shieldsmall_16
+  - first:
+      213: 768648888553709574
+    second: shieldsmall_17
+  - first:
+      213: -8916571309996438629
+    second: shieldsmall_18
+  - first:
+      213: 5061373583655875106
+    second: shieldsmall_19
+  - first:
+      213: 3775053970741126124
+    second: shieldsmall_20
+  - first:
+      213: -8758128401299859327
+    second: shieldsmall_21
+  - first:
+      213: 7012475543410472918
+    second: shieldsmall_22
+  - first:
+      213: -3821132310238718874
+    second: shieldsmall_23
+  - first:
+      213: -5833723104672546766
+    second: shieldsmall_24
+  - first:
+      213: 5439914368247638423
+    second: shieldsmall_25
+  - first:
+      213: -6770014761007235611
+    second: shieldsmall_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shieldsmall_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01192abedc09b0990800000000000000
+      internalID: -7418676747066765040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43edfdc8d0eaafa90800000000000000
+      internalID: -7279314474469695948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9a8968da103f770800000000000000
+      internalID: 8643253954653235692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f94b307a928d7a0800000000000000
+      internalID: -6352281477107638416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4799b30148a3460800000000000000
+      internalID: 7222230157696267466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8e351862c00aee0800000000000000
+      internalID: -1251987336890947354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d95202372ee7390800000000000000
+      internalID: -7818562918980149973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3eea6e2547a4c80800000000000000
+      internalID: -8337723860716690468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a9fb194a2b9db20800000000000000
+      internalID: 3159753033466747438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8b6abf8a6262960800000000000000
+      internalID: 7576785930315806902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3382512b5f1ea6cc0800000000000000
+      internalID: -3716910097069955021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1d35b5c8f5d76d0800000000000000
+      internalID: -2991129521071861295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f2e9441082ae890800000000000000
+      internalID: -7428080649482916062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a19d4f2aa0d0120800000000000000
+      internalID: 2381571472957708813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_14
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef188e5aad067030800000000000000
+      internalID: 3491993586453979119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dbb760e3a441590800000000000000
+      internalID: -7704451432266875603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_16
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc37276dd54c760800000000000000
+      internalID: 7477204456966442084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_17
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6002e37771acaaa00800000000000000
+      internalID: 768648888553709574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_18
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0935b2a9f14480800000000000000
+      internalID: -8916571309996438629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_19
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222ba51457c9d3640800000000000000
+      internalID: 5061373583655875106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_20
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e3f5d59fa36430800000000000000
+      internalID: 3775053970741126124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_21
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188134f1f90e47680800000000000000
+      internalID: -8758128401299859327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_22
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d778116a51515160800000000000000
+      internalID: 7012475543410472918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_23
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 4
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6641478b86c98fac0800000000000000
+      internalID: -3821132310238718874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_24
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 4
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2300104aeb37a0fa0800000000000000
+      internalID: -5833723104672546766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799a1f7cb457e7b40800000000000000
+      internalID: 5439914368247638423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldsmall_26
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 4
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed3306a1731c02a0800000000000000
+      internalID: -6770014761007235611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1dfdb3057fe5e9e41a494bd8a3fb2487
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

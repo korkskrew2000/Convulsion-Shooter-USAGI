@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 8674d306fe93fc042b4393e412bf76fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8816261250480200039
+    second: healthnone_0
+  - first:
+      213: 4068221169218727411
+    second: healthnone_1
+  - first:
+      213: 9007778504786559718
+    second: healthnone_2
+  - first:
+      213: -4965099872359054007
+    second: healthnone_3
+  - first:
+      213: 4772895800699410037
+    second: healthnone_4
+  - first:
+      213: -1245026642980583265
+    second: healthnone_5
+  - first:
+      213: 9016377000181291097
+    second: healthnone_6
+  - first:
+      213: 319558482103014701
+    second: healthnone_7
+  - first:
+      213: 2735024774268597715
+    second: healthnone_8
+  - first:
+      213: -294713729742939150
+    second: healthnone_9
+  - first:
+      213: -222074382189620974
+    second: healthnone_10
+  - first:
+      213: 1760967364857379958
+    second: healthnone_11
+  - first:
+      213: -1806305822372407371
+    second: healthnone_12
+  - first:
+      213: -7734843809068767774
+    second: healthnone_13
+  - first:
+      213: 3745018831187797565
+    second: healthnone_14
+  - first:
+      213: -1420011347415293174
+    second: healthnone_15
+  - first:
+      213: -152168636353855922
+    second: healthnone_16
+  - first:
+      213: -2026277980865236409
+    second: healthnone_17
+  - first:
+      213: -4985412790679508365
+    second: healthnone_18
+  - first:
+      213: -3002675038629551166
+    second: healthnone_19
+  - first:
+      213: 3918994152427626488
+    second: healthnone_20
+  - first:
+      213: -6503397350735064237
+    second: healthnone_21
+  - first:
+      213: -8446673043903494247
+    second: healthnone_22
+  - first:
+      213: 4811754487794195839
+    second: healthnone_23
+  - first:
+      213: -1145866148532010759
+    second: healthnone_24
+  - first:
+      213: 3532922182476230723
+    second: healthnone_25
+  - first:
+      213: -1246919571239186575
+    second: healthnone_26
+  - first:
+      213: -7383997909289567650
+    second: healthnone_27
+  - first:
+      213: -8093217365726869828
+    second: healthnone_28
+  - first:
+      213: 7612592213025870278
+    second: healthnone_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: healthnone_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996261e6a1956a580800000000000000
+      internalID: -8816261250480200039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fda10b5999357830800000000000000
+      internalID: 4068221169218727411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2c33923de020d70800000000000000
+      internalID: 9007778504786559718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94583b9e8fb681bb0800000000000000
+      internalID: -4965099872359054007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57654ae517bbc3240800000000000000
+      internalID: 4772895800699410037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98ce395dd6c8bee0800000000000000
+      internalID: -1245026642980583265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958dec06c1b902d70800000000000000
+      internalID: 9016377000181291097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2596b21fbc4f6400800000000000000
+      internalID: 319558482103014701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d53c2a9a82c4f520800000000000000
+      internalID: 2735024774268597715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbdd3c9c67f8ebf0800000000000000
+      internalID: -294713729742939150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2119fd7a6880becf0800000000000000
+      internalID: -222074382189620974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c31630d76307810800000000000000
+      internalID: 1760967364857379958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7d5cdbc66bee6e0800000000000000
+      internalID: -1806305822372407371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5a35f598058a490800000000000000
+      internalID: -7734843809068767774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36e816f8caf8f330800000000000000
+      internalID: 3745018831187797565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03a94cf33b1b4ce0800000000000000
+      internalID: -1420011347415293174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e3c247e6363edf0800000000000000
+      internalID: -152168636353855922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742f45e79e631e3e0800000000000000
+      internalID: -2026277980865236409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aebd01b7140dab0800000000000000
+      internalID: -4985412790679508365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_19
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3ad8216fa5456d0800000000000000
+      internalID: -3002675038629551166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_20
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff184cfa60136630800000000000000
+      internalID: 3918994152427626488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_21
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3535834e09a4fb5a0800000000000000
+      internalID: -6503397350735064237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_22
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997c3447e9367ca80800000000000000
+      internalID: -8446673043903494247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d5d5f7639c6c240800000000000000
+      internalID: 4811754487794195839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_24
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ca981fc01910f0800000000000000
+      internalID: -1145866148532010759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_25
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340f799b106770130800000000000000
+      internalID: 3532922182476230723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_26
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f4ec4a14d02bee0800000000000000
+      internalID: -1246919571239186575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_27
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a719a0605c68990800000000000000
+      internalID: -7383997909289567650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_28
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c3d18fad1faf80800000000000000
+      internalID: -8093217365726869828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthnone_29
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1df45d84c55a960800000000000000
+      internalID: 7612592213025870278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9bf337760df95124a8544cf9c5e6da01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

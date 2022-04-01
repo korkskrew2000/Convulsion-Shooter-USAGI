@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: f36011cdbede3d14eb5204fe1fb3f140
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4325953393944816591
+    second: healthbig_0
+  - first:
+      213: 7905467358133443864
+    second: healthbig_1
+  - first:
+      213: -4532628831887936510
+    second: healthbig_2
+  - first:
+      213: -7499373908475152331
+    second: healthbig_3
+  - first:
+      213: -4900876633599523841
+    second: healthbig_4
+  - first:
+      213: 872574893356418911
+    second: healthbig_5
+  - first:
+      213: -3011407845124951171
+    second: healthbig_6
+  - first:
+      213: -2686216262773308603
+    second: healthbig_7
+  - first:
+      213: 5204103889608365616
+    second: healthbig_8
+  - first:
+      213: 4945171094232513988
+    second: healthbig_9
+  - first:
+      213: 616312363053260534
+    second: healthbig_10
+  - first:
+      213: 1957035962106000804
+    second: healthbig_11
+  - first:
+      213: -1495127697791565226
+    second: healthbig_12
+  - first:
+      213: -7879236240621431453
+    second: healthbig_13
+  - first:
+      213: -432984260585308216
+    second: healthbig_14
+  - first:
+      213: 2017292728900861657
+    second: healthbig_15
+  - first:
+      213: -6884021798839381679
+    second: healthbig_16
+  - first:
+      213: 1794630734602363822
+    second: healthbig_17
+  - first:
+      213: -9182558119978846236
+    second: healthbig_18
+  - first:
+      213: -1140620451567506576
+    second: healthbig_19
+  - first:
+      213: -3254347586482081531
+    second: healthbig_20
+  - first:
+      213: 7079407603005146213
+    second: healthbig_21
+  - first:
+      213: 2755415146415224270
+    second: healthbig_22
+  - first:
+      213: -3809099768638865261
+    second: healthbig_23
+  - first:
+      213: 2714911099655996709
+    second: healthbig_24
+  - first:
+      213: -4712270581602703398
+    second: healthbig_25
+  - first:
+      213: 6803366643666747314
+    second: healthbig_26
+  - first:
+      213: 1703950412410660705
+    second: healthbig_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: healthbig_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134160fde4027f3c0800000000000000
+      internalID: -4325953393944816591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d5df06dacd5bd60800000000000000
+      internalID: 7905467358133443864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20430a0a71ed811c0800000000000000
+      internalID: -4532628831887936510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5387183e92fdce790800000000000000
+      internalID: -7499373908475152331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3c94eeaa69cfbb0800000000000000
+      internalID: -4900876633599523841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f570f6e0e320c1c00800000000000000
+      internalID: 872574893356418911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73b08d15845536d0800000000000000
+      internalID: -3011407845124951171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543058b8a84a8bad0800000000000000
+      internalID: -2686216262773308603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036d5524ae0b83840800000000000000
+      internalID: 5204103889608365616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd3249d8e6c0a440800000000000000
+      internalID: 4945171094232513988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe987e24d49d8800800000000000000
+      internalID: 616312363053260534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a53ef5b6d9c82b10800000000000000
+      internalID: 1957035962106000804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6524947c74d304be0800000000000000
+      internalID: -1495127697791565226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3651068926457a290800000000000000
+      internalID: -7879236240621431453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf3a7aeb1bbdf9f0800000000000000
+      internalID: -432984260585308216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de3d128c0ddefb10800000000000000
+      internalID: 2017292728900861657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_16
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1511226a5aa0770a0800000000000000
+      internalID: -6884021798839381679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_17
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3e8fe052fc7e810800000000000000
+      internalID: 1794630734602363822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e738498a00019080800000000000000
+      internalID: -9182558119978846236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_19
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07be5c81eb3bb20f0800000000000000
+      internalID: -1140620451567506576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_20
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501f514cc1c36d2d0800000000000000
+      internalID: -3254347586482081531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_21
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5644255e4bb1f3260800000000000000
+      internalID: 7079407603005146213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec57fc21a733d3620800000000000000
+      internalID: 2755415146415224270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_23
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390024021fb532bc0800000000000000
+      internalID: -3809099768638865261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_24
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525c2cbc24d4da520800000000000000
+      internalID: 2714911099655996709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_25
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad72c0a6fd6aa9eb0800000000000000
+      internalID: -4712270581602703398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_26
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf7f78aae96a6e50800000000000000
+      internalID: 6803366643666747314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthbig_27
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1672e964fd5a5a710800000000000000
+      internalID: 1703950412410660705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6bbb9c640121a6f4e97d7468d0eae7f5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

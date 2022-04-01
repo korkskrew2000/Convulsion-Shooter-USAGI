@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 42b7d4731bcb90946948585311251d71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -425861901757864526
+    second: shieldbig_0
+  - first:
+      213: 4429293303416025406
+    second: shieldbig_1
+  - first:
+      213: -4492916709679543806
+    second: shieldbig_2
+  - first:
+      213: -8003571346934283693
+    second: shieldbig_3
+  - first:
+      213: 5775034427575548335
+    second: shieldbig_4
+  - first:
+      213: 1992960785882686582
+    second: shieldbig_5
+  - first:
+      213: -6593478558949588066
+    second: shieldbig_6
+  - first:
+      213: 7901437060799400925
+    second: shieldbig_7
+  - first:
+      213: 4101366931149732557
+    second: shieldbig_8
+  - first:
+      213: 8439988650312034949
+    second: shieldbig_9
+  - first:
+      213: 2142134494064643673
+    second: shieldbig_10
+  - first:
+      213: -7269744828883049898
+    second: shieldbig_11
+  - first:
+      213: 2316325875525469279
+    second: shieldbig_12
+  - first:
+      213: -4461356823851535786
+    second: shieldbig_13
+  - first:
+      213: -8501469439596719139
+    second: shieldbig_14
+  - first:
+      213: -5302372387633715697
+    second: shieldbig_15
+  - first:
+      213: -7014982514704959018
+    second: shieldbig_16
+  - first:
+      213: -3863308552197265230
+    second: shieldbig_17
+  - first:
+      213: 9121806850008738408
+    second: shieldbig_18
+  - first:
+      213: -1028525821827121008
+    second: shieldbig_19
+  - first:
+      213: -935959264989894459
+    second: shieldbig_20
+  - first:
+      213: -1934109842477753605
+    second: shieldbig_21
+  - first:
+      213: 5250526806090358570
+    second: shieldbig_22
+  - first:
+      213: 5744255631020481531
+    second: shieldbig_23
+  - first:
+      213: 2800654071267935748
+    second: shieldbig_24
+  - first:
+      213: -466840008645677693
+    second: shieldbig_25
+  - first:
+      213: -2101787481637610104
+    second: shieldbig_26
+  - first:
+      213: 4457315939335563720
+    second: shieldbig_27
+  - first:
+      213: -60802390928666738
+    second: shieldbig_28
+  - first:
+      213: 700517002750417494
+    second: shieldbig_29
+  - first:
+      213: 4024768585515471359
+    second: shieldbig_30
+  - first:
+      213: -241631663428888018
+    second: shieldbig_31
+  - first:
+      213: -5817305215177087007
+    second: shieldbig_32
+  - first:
+      213: 1935355585907466799
+    second: shieldbig_33
+  - first:
+      213: -8818395904405263012
+    second: shieldbig_34
+  - first:
+      213: -7630271319689163294
+    second: shieldbig_35
+  - first:
+      213: -6774159405760759274
+    second: shieldbig_36
+  - first:
+      213: -5205604686064412633
+    second: shieldbig_37
+  - first:
+      213: -8118871911125738435
+    second: shieldbig_38
+  - first:
+      213: -3854946493266240445
+    second: shieldbig_39
+  - first:
+      213: -261197097292179391
+    second: shieldbig_40
+  - first:
+      213: 5304575543883796373
+    second: shieldbig_41
+  - first:
+      213: 3970006249241273971
+    second: shieldbig_42
+  - first:
+      213: -5401404640259442123
+    second: shieldbig_43
+  - first:
+      213: -2019148467880695768
+    second: shieldbig_44
+  - first:
+      213: 7446509046763657419
+    second: shieldbig_45
+  - first:
+      213: -7120248753132668632
+    second: shieldbig_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shieldbig_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5a95e4bd8071af0800000000000000
+      internalID: -425861901757864526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f024cac2087d30800000000000000
+      internalID: 4429293303416025406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a422a9e04f5a1c0800000000000000
+      internalID: -4492916709679543806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352cc73c34a9de090800000000000000
+      internalID: -8003571346934283693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9ba45e63b052050800000000000000
+      internalID: 5775034427575548335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67422dd864b68ab10800000000000000
+      internalID: 1992960785882686582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93c7a33f224f74a0800000000000000
+      internalID: -6593478558949588066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb0e08a42b87ad60800000000000000
+      internalID: 7901437060799400925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcab6b07e7bfae830800000000000000
+      internalID: 4101366931149732557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a6d22e5fcd02570800000000000000
+      internalID: 8439988650312034949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e85db09f36abd10800000000000000
+      internalID: 2142134494064643673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65261ba489dac1b90800000000000000
+      internalID: -7269744828883049898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54cdb28c1e352020800000000000000
+      internalID: 2316325875525469279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65270122b931612c0800000000000000
+      internalID: -4461356823851535786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd39fff5696b40a80800000000000000
+      internalID: -8501469439596719139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06a04818603a66b0800000000000000
+      internalID: -5302372387633715697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_16
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d93f61e196c5ae90800000000000000
+      internalID: -7014982514704959018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_17
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8ad882755c26ac0800000000000000
+      internalID: -3863308552197265230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_18
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aee7c200b279e70800000000000000
+      internalID: 9121806850008738408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_19
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0908da3e631f9b1f0800000000000000
+      internalID: -1028525821827121008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8aa06e10ec203f0800000000000000
+      internalID: -935959264989894459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_21
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfad68a7859a825e0800000000000000
+      internalID: -1934109842477753605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_22
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f9ea8cf4e9dd840800000000000000
+      internalID: 5250526806090358570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb5302ef02b7bf40800000000000000
+      internalID: 5744255631020481531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_24
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4064da01a0cedd620800000000000000
+      internalID: 2800654071267935748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_25
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38debbd4c737589f0800000000000000
+      internalID: -466840008645677693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_26
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d90a3db63f4d2e0800000000000000
+      internalID: -2101787481637610104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c968cf1b319bdd30800000000000000
+      internalID: 4457315939335563720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_28
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fc33f2c8cf72ff0800000000000000
+      internalID: -60802390928666738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a5f04a08cb8b900800000000000000
+      internalID: 700517002750417494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_30
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff11dc254b9dad730800000000000000
+      internalID: 4024768585515471359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_31
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a95d6484d85acf0800000000000000
+      internalID: -241631663428888018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_32
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a75b6ab7c44fa0800000000000000
+      internalID: -5817305215177087007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_33
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f222514c6a3cbda10800000000000000
+      internalID: 1935355585907466799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_34
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d2a2595a3ce9580800000000000000
+      internalID: -8818395904405263012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_35
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed831269a4db1690800000000000000
+      internalID: -7630271319689163294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_36
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a32c759e95df1a0800000000000000
+      internalID: -6774159405760759274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_37
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72895065e1af1c7b0800000000000000
+      internalID: -5205604686064412633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_38
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c14703309f35f80800000000000000
+      internalID: -8118871911125738435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_39
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c5ab8b69a708ac0800000000000000
+      internalID: -3854946493266240445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_40
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1485987bf9a006cf0800000000000000
+      internalID: -261197097292179391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_41
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f0b613a53ad9940800000000000000
+      internalID: 5304575543883796373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_42
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3766b1256ab481730800000000000000
+      internalID: 3970006249241273971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_43
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a7039f81b5a05b0800000000000000
+      internalID: -5401404640259442123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_44
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82862379a2b8af3e0800000000000000
+      internalID: -2019148467880695768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_45
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc894155680575760800000000000000
+      internalID: 7446509046763657419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shieldbig_46
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829fb15db7bcf2d90800000000000000
+      internalID: -7120248753132668632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 95381fe322557144886175a14fe751e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
